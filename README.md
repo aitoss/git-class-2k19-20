@@ -26,3 +26,4 @@ VIKAS DHAYAL - [dhayalvikas2109@gmail.com](www.moderntechnology.com)
 
 Aman Thakur - [Aman Thakur](https://github.com/johnsnow456)
 
+Dweep mishra-[mishradweep2000@gmail.com]
