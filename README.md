@@ -18,5 +18,6 @@ This repo is here for the purpose of learning and practicing git.
 
 ## Participants
 
-Shailesh Kumar Sahu - [shellkore](https://github.com/shellkore)
+1)Shailesh Kumar Sahu - [shellkore](https://github.com/shellkore)
+2)RAVINDER SINGH (new)
 
