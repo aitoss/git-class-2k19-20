@@ -4,7 +4,7 @@
  
 This repo is here for the purpose of learning and practicing git.
 
-## Things to do
+## Tasks to do
 
 + `Fork`
 
